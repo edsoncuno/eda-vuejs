@@ -1,29 +1,20 @@
 # eda-vuejs
 
-This template should help get you started developing with Vue 3 in Vite.
+Parte del contenido de Estructura de Datos de la Universidad Ricardo Palma
 
-## Recommended IDE Setup
+## Para utilizar el projecto
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+Instalar Node.js
 
-## Customize configuration
+https://nodejs.org/en/download/
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
+Instalar dependencias
 
 ```sh
 npm install
 ```
-
-### Compile and Hot-Reload for Development
+Levantar el servidor de desarrollo
 
 ```sh
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
 ```
